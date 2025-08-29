@@ -1,0 +1,8 @@
+name: VoidWorldGenerator
+version: '1.0.0-SNAPSHOT'
+main: dev.mending.world.generator.VoidWorldPlugin
+api-version: '1.21'
+authors: [ MrMending ]
+website: https://mending.dev
+description: "Create Empty Worlds"
+load: STARTUP
