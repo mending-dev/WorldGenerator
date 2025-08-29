@@ -39,6 +39,14 @@ WorldGenerator does not add commands on its own. Instead, it provides world gene
 /world create void_world NORMAL NORMAL VoidWorldGenerator
 ```
 
+### ... or use it manually in your **bukkit.yml**
+
+```yaml
+worlds:
+  world:
+    generator: VoidWorldGenerator
+```
+
 This will create a completely empty world using the provided **VoidWorldGenerator**.
 
 ---
