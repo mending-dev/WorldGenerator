@@ -2,7 +2,7 @@
 
 # WorldGenerator
 
-A collection of world generators for Paper or Spigot servers (version **1.21+**, Java 21).  
+A collection of world generators for Paper or Spigot servers (version **1.21+**).  
 With **WorldGenerator**, server administrators can easily create customized worlds using the default Bukkit configuration system or world manager plugins such as [Multiverse-Core](https://github.com/Multiverse/Multiverse-Core) or [Worlds](https://github.com/mending-dev/Worlds).
 
 ---
